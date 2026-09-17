@@ -40,7 +40,7 @@ PC1 is connected to `SW1_lab1` using an Ethernet cable.
 
 | Device | Model      | Name |
 | ------ | ---------- | ---- |
-| Switch | Cisco 2960 | SW1  |
+| Switch | Cisco 2960 | SW1_lab1  |
 | PC     | Generic PC | PC1  |
 
 
